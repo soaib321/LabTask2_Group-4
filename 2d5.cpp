@@ -11,7 +11,6 @@ int main()
     }
     cout<<endl;
   }
-
   int smallest=arr[0][1];
   int largest=arr[1][1];
   for(int i=0;i<3;i++){
